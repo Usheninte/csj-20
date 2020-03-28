@@ -13,4 +13,4 @@ A virtual introductory workshop on big data, machine learning, and artificial in
 
 [Sign Up Here](https://mailchi.mp/8621a9cbc6cf/csj-20-online-1)
 
-> Please check your emails for a confirmation message, this is required to complete the registration process.
+> Please check your emails for a confirmation message. This is required to complete the registration process.
